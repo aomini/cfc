@@ -1,3 +1,3 @@
 export const main = () => {
-  console.log("this is main version 1.0.4");
+  console.log("this is main version 1.0.5");
 };
